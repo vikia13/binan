@@ -1,0 +1,12 @@
+2025-03-20 01:31:00,210 - Main - INFO - Initializing database...
+2025-03-20 01:31:00,216 - TelegramBot - INFO - Clearing Telegram sessions...
+2025-03-20 01:31:00,367 - TelegramBot - INFO - Delete webhook response: 200
+2025-03-20 01:31:01,500 - TelegramBot - INFO - getUpdates response: 200
+2025-03-20 01:31:03,505 - TelegramBot - INFO - Telegram bot started successfully
+2025-03-20 01:31:03,507 - TelegramBot - INFO - Telegram bot initialized
+2025-03-20 01:31:03,507 - telegram_adapter - INFO - Enhanced Telegram bot adapter initialized
+2025-03-20 01:31:03,509 - ai_model_enhanced - INFO - Enhanced AI model initialized
+2025-03-20 01:31:03,509 - confidence_scorer - INFO - Advanced confidence scorer initialized
+2025-03-20 01:31:03,510 - database_adapter - INFO - Database adapter initialized
+2025-03-20 01:31:03,510 - AIModel - INFO - No existing model found, using default parameters
+2025-03-20 01:31:03,510 - AlertSystem - INFO - Alert system initialized

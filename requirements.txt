@@ -1,0 +1,10 @@
+numpy>=1.23.5
+pandas>=1.5.3
+python-telegram-bot>=20.0
+python-dotenv>=1.0.0
+ta>=0.10.2
+pyTelegramBotAPI>=4.12.0
+websocket-client>=1.6.1
+websockets==10.4
+scikit-learn>=1.2.1
+python-dotenv>=1.0.0

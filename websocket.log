@@ -1,0 +1,67 @@
+2025-03-19 16:45:04,136 - Main - INFO - Initializing database...
+2025-03-19 16:46:35,316 - Main - INFO - Initializing database...
+2025-03-19 21:43:36,968 - Main - INFO - Initializing database...
+2025-03-19 21:43:36,983 - TelegramBot - INFO - Clearing Telegram sessions...
+2025-03-19 21:43:37,202 - TelegramBot - INFO - Delete webhook response: 200
+2025-03-19 21:43:38,327 - TelegramBot - INFO - getUpdates response: 200
+2025-03-19 21:43:40,357 - TelegramBot - INFO - Telegram bot started successfully
+2025-03-19 21:43:40,357 - TelegramBot - INFO - Telegram bot initialized
+2025-03-19 21:43:40,357 - telegram_adapter - INFO - Enhanced Telegram bot adapter initialized
+2025-03-19 21:43:40,357 - ai_model_enhanced - INFO - Enhanced AI model initialized
+2025-03-19 21:43:40,357 - confidence_scorer - INFO - Advanced confidence scorer initialized
+2025-03-19 21:45:27,739 - Main - INFO - Initializing database...
+2025-03-19 21:45:27,745 - TelegramBot - INFO - Clearing Telegram sessions...
+2025-03-19 21:45:27,911 - TelegramBot - INFO - Delete webhook response: 200
+2025-03-19 21:45:29,042 - TelegramBot - INFO - getUpdates response: 200
+2025-03-19 21:45:31,048 - TelegramBot - INFO - Telegram bot started successfully
+2025-03-19 21:45:31,050 - TelegramBot - INFO - Telegram bot initialized
+2025-03-19 21:45:31,050 - telegram_adapter - INFO - Enhanced Telegram bot adapter initialized
+2025-03-19 21:45:31,051 - ai_model_enhanced - INFO - Enhanced AI model initialized
+2025-03-19 21:45:31,051 - confidence_scorer - INFO - Advanced confidence scorer initialized
+2025-03-19 21:47:05,346 - Main - INFO - Initializing database...
+2025-03-19 21:47:05,352 - TelegramBot - INFO - Clearing Telegram sessions...
+2025-03-19 21:47:05,507 - TelegramBot - INFO - Delete webhook response: 200
+2025-03-19 21:47:06,645 - TelegramBot - INFO - getUpdates response: 200
+2025-03-19 21:47:08,650 - TelegramBot - INFO - Telegram bot started successfully
+2025-03-19 21:47:08,651 - TelegramBot - INFO - Telegram bot initialized
+2025-03-19 21:47:08,652 - telegram_adapter - INFO - Enhanced Telegram bot adapter initialized
+2025-03-19 21:47:08,653 - ai_model_enhanced - INFO - Enhanced AI model initialized
+2025-03-19 21:47:08,653 - confidence_scorer - INFO - Advanced confidence scorer initialized
+2025-03-19 22:23:46,697 - Main - INFO - Initializing database...
+2025-03-19 22:23:46,703 - TelegramBot - INFO - Clearing Telegram sessions...
+2025-03-19 22:23:46,864 - TelegramBot - INFO - Delete webhook response: 200
+2025-03-19 22:23:47,990 - TelegramBot - INFO - getUpdates response: 200
+2025-03-19 22:23:49,996 - TelegramBot - INFO - Telegram bot started successfully
+2025-03-19 22:23:49,997 - TelegramBot - INFO - Telegram bot initialized
+2025-03-19 22:23:49,998 - telegram_adapter - INFO - Enhanced Telegram bot adapter initialized
+2025-03-19 22:23:49,999 - ai_model_enhanced - INFO - Enhanced AI model initialized
+2025-03-19 22:23:49,999 - confidence_scorer - INFO - Advanced confidence scorer initialized
+2025-03-20 00:16:31,841 - Main - INFO - Initializing database...
+2025-03-20 00:16:31,847 - TelegramBot - INFO - Clearing Telegram sessions...
+2025-03-20 00:16:31,999 - TelegramBot - INFO - Delete webhook response: 200
+2025-03-20 00:16:33,127 - TelegramBot - INFO - getUpdates response: 200
+2025-03-20 00:16:35,133 - TelegramBot - INFO - Telegram bot started successfully
+2025-03-20 00:16:35,134 - TelegramBot - INFO - Telegram bot initialized
+2025-03-20 00:16:35,134 - telegram_adapter - INFO - Enhanced Telegram bot adapter initialized
+2025-03-20 00:16:35,136 - ai_model_enhanced - INFO - Enhanced AI model initialized
+2025-03-20 00:16:35,136 - confidence_scorer - INFO - Advanced confidence scorer initialized
+2025-03-21 01:18:43,017 - Main - INFO - Initializing database...
+2025-03-21 01:18:43,025 - database_adapter - INFO - Database adapter initialized
+2025-03-21 01:18:43,025 - TelegramBot - INFO - Clearing Telegram sessions...
+2025-03-21 01:18:43,201 - TelegramBot - INFO - Delete webhook response: 200
+2025-03-21 01:18:44,329 - TelegramBot - INFO - getUpdates response: 200
+2025-03-21 01:18:46,335 - TelegramBot - INFO - Telegram bot started successfully
+2025-03-21 01:18:46,337 - TelegramBot - INFO - Telegram bot initialized
+2025-03-21 01:18:46,337 - telegram_adapter - INFO - Enhanced Telegram bot adapter initialized
+2025-03-21 01:18:46,339 - ai_model_enhanced - INFO - Enhanced AI model initialized
+2025-03-21 01:18:46,339 - confidence_scorer - INFO - Advanced confidence scorer initialized
+2025-03-21 01:22:47,418 - Main - INFO - Initializing database...
+2025-03-21 01:22:47,425 - database_adapter - INFO - Database adapter initialized
+2025-03-21 01:22:47,426 - TelegramBot - INFO - Clearing Telegram sessions...
+2025-03-21 01:22:47,584 - TelegramBot - INFO - Delete webhook response: 200
+2025-03-21 01:22:48,713 - TelegramBot - INFO - getUpdates response: 200
+2025-03-21 01:22:50,719 - TelegramBot - INFO - Telegram bot started successfully
+2025-03-21 01:22:50,721 - TelegramBot - INFO - Telegram bot initialized
+2025-03-21 01:22:50,721 - telegram_adapter - INFO - Enhanced Telegram bot adapter initialized
+2025-03-21 01:22:50,722 - ai_model_enhanced - INFO - Enhanced AI model initialized
+2025-03-21 01:22:50,722 - confidence_scorer - INFO - Advanced confidence scorer initialized
